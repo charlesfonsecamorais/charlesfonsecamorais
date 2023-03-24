@@ -17,12 +17,14 @@ Atualmente desenvolvendo a função de Analista de TI, estou me pós-graduando e
 ### Aprendizado em curso:
 
 <div style="display: inline_block">
-<img align="center" alt="Charles-Java" height="30" width="40"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img align="center" alt="Charles-SpringBoot" height="30" width="40"
+     <img align="center" alt="Charles-Java" height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+     <img align="center" alt="Charles-SpringBoot" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img align="center" alt="Charles-MySQL" height="30" width="40"
+     <img align="center" alt="Charles-MySQL" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+     <img align="center" alt="Charles-MongoDB" height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="30" width="40"/>      
 </div>
 
 ##
@@ -30,7 +32,7 @@ Atualmente desenvolvendo a função de Analista de TI, estou me pós-graduando e
 <br>        
 
 <div align="center">
-  <a href="https://github.com/charlesfonsecamorais">
+<a href="https://github.com/charlesfonsecamorais">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlesfonsecamorais&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesfonsecamorais&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
