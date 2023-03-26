@@ -17,6 +17,8 @@ Atualmente desenvolvendo a função de Analista de TI, estou me pós-graduando e
 ### Aprendizado em curso:
 
 <div style="display: inline_block">
+     <img align="center" alt="Charles-Angular" height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
      <img align="center" alt="Charles-Java" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
      <img align="center" alt="Charles-SpringBoot" height="30" width="40"
@@ -24,7 +26,7 @@ Atualmente desenvolvendo a função de Analista de TI, estou me pós-graduando e
      <img align="center" alt="Charles-MySQL" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
      <img align="center" alt="Charles-MongoDB" height="30" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="30" width="40"/>      
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="40"/>      
 </div>
 
 ##
