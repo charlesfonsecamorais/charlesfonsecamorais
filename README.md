@@ -10,7 +10,7 @@
 
 ### Projeto de Migração de Carreira:
 
-Atualmente desenvolvendo a função de Analista de TI, estou me pós-graduando em Engenharia de Software e pretendo migrar para a minha área de formação e atuar como Desenvolvedor Java.
+Atualmente desenvolvendo a função de Analista de Suporte de TI, sou formado em Análise e Desenvolvimento de Sistemas, pós-graduado em Engenharia de Software e pós-graduando em Administração de Banco de Dados e pretendo migrar para a minha área de formação e atuar como Desenvolvedor Java Back-End.
 
 <br>
 
