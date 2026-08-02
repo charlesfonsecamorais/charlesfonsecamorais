@@ -4,7 +4,7 @@
 - Espiritualista, democrata e defensor do livre pensar;
 - Fiel torcedor do Corinthians;
 - Apaixonado por Tecnologia;
-- .'. Um eterno aprendiz em busca de evolução .'.
+- ∴ Um eterno aprendiz em busca de evolução ∴
 
 <br>
 
